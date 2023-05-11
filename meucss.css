@@ -1,0 +1,60 @@
+h2{
+	color: blue;
+}
+#diferente{
+	color: #FF6F59;
+}
+	
+}
+nav{
+	background-color: rg(245, 238, 158);
+}
+footer h6 {
+	background-color: rgb(129, 210, 199);
+}
+footer {
+	background-color: rgb(129, 210, 199);
+	height:140px ;
+	width: 200px;
+
+}
+
+.fundo-preto{
+    background-color: rgb(129, 210, 199);
+}
+
+.cirilo-carrosel{
+  background-color: rgb(59, 142, 165);
+}
+.cirilo-carrosel2{
+  background-color: rgb(59, 142, 165);
+}
+.cirilo-carrosel3{
+  background-color: rgb(46, 196, 182);
+}
+.jumbotron{
+	background-image: url('../img/rezero1.jpg');
+	height: 500px;
+	background-position: center;
+	background-size: cover;
+
+}
+button.form-group {
+    margin-bottom: 0px;
+
+}
+nav.jumbotron{
+	margin-bottom: 0px;
+}
+.destaque{
+	height:140px ;
+	width: 248px;
+}
+.teste_img{
+	height:680px ;
+	width: 100%;
+}
+#logo{
+	height: 10%;
+	width: 10%;
+}
